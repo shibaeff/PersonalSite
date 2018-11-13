@@ -75,6 +75,11 @@ disqusShortname = "yourdiscussshortname"
                 url = "about"
 
             [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.5
+                url = "CV"
+
+            [[languages.en.menu.main]]
                 name = "Blog"
                 weight = 2.0
                 url = "posts"
@@ -105,6 +110,12 @@ disqusShortname = "yourdiscussshortname"
                 name = "Обо мне"
                 weight = 1.0
                 url = "ru/about"
+            
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.5
+                url = "Резюме"
+
             [[languages.ru.menu.main]]
                 name = "Посты"
                 weight = 2.0
