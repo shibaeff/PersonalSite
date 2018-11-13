@@ -1,6 +1,6 @@
 baseurl = "http://www.example.com"
 title = "Pavel Shibaev"
-
+#
 theme = "coder-portfolio"
 
 DefaultContentLanguage = "en"
