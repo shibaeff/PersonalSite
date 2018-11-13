@@ -63,7 +63,7 @@ disqusShortname = "yourdiscussshortname"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Pavel Shibaev"
-            info = "WEB AND APPS ENGINEER"
+            info = "PYTHON ENGINEER AND STUDENT"
             description = "Pavel Shibaev's personal website"
             keywords = "blog,developer,personal"
 
@@ -89,31 +89,31 @@ disqusShortname = "yourdiscussshortname"
                 url = "contact"
 
 
-    [languages.ja]
-        languagecode = "ja"
-        languagename = "Japanese"
-        title = "石見 優丞"
+    [languages.ru]
+        languagecode = "ru"
+        languagename = "russian"
+        title = "Блог, личный сайт"
 
-        [languages.ja.params]
-            author = "石見 優丞"
-            description = "石見のサイト"
-            keywords = "blog,developer,strona domowa"
-            info = "WEBとアプリのエンジニア"
+        [languages.ru.params]
+            author = "Павел Шибаев"
+            description = "Здесь вы узнаете больше обо мне"
+            keywords = "блог, разработчик"
+            info = "ПИШУ НА PYTHON & УЧУСЬ"
 
-        [languages.ja.menu]
-            [[languages.ja.menu.main]]
-                name = "テーマについて"
+        [languages.ru.menu]
+            [[languages.ru.menu.main]]
+                name = "Обо мне"
                 weight = 1.0
-                url = "ja/about"
-            [[languages.ja.menu.main]]
-                name = "ブログ"
+                url = "ru/about"
+            [[languages.ru.menu.main]]
+                name = "Посты"
                 weight = 2.0
-                url = "ja/posts"
-            [[languages.ja.menu.main]]
-                name = "プロジェクト"
+                url = "ru/posts"
+            [[languages.ru.menu.main]]
+                name = "Проекты"
                 weight = 3
-                url = "ja/projects"
-            [[languages.ja.menu.main]]
-                name = "お問い合わせ"
+                url = "ru/projects"
+            [[languages.ru.menu.main]]
+                name = "Контакты"
                 weight = 5
-                url = "ja/contact"
+                url = "ru/contact"
