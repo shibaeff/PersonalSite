@@ -75,7 +75,7 @@ disqusShortname = "yourdiscussshortname"
                 url = "about"
 
             [[languages.en.menu.main]]
-                name = "About"
+                name = "CV"
                 weight = 1.5
                 url = "CV"
 
@@ -112,9 +112,9 @@ disqusShortname = "yourdiscussshortname"
                 url = "ru/about"
             
             [[languages.en.menu.main]]
-                name = "About"
+                name = "Резюме"
                 weight = 1.5
-                url = "Резюме"
+                url = "ru/cv"
 
             [[languages.ru.menu.main]]
                 name = "Посты"
