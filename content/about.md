@@ -1,0 +1,1 @@
+Hi there. Here I am: a 19-year-old student with passion for track-and-field, violin music and computer science. Currently I'm into mastering the solid fullstack developer skills and learning the basics of finance. Read more about my journey in my Blog and projects.
