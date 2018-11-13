@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Yusuke Ishimi"
+title = "Pavel Shibaev"
 
 theme = "coder-portfolio"
 
@@ -15,14 +15,14 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Yusuke Ishimi"
-    description = "Yusuke Ishimi's personal website"
+    author = "Pavel Shibaev"
+    description = "Pavel Shibaev's personal website"
     keywords = "blog,developer,personal"
-    info = "WEB AND APPS ENGINEER"
+    info = "STUDENT, PYTHON ENGINEER"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
-    fixedbarContent = "Do you want to know me more private?→"
-    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    fixedbarContent = "Need additional contact?→"
+    fixedbarContentAfter = "Thank You! Save, share & like→"
 
     hideCredits = false
     hideCopyright = false
@@ -42,30 +42,29 @@ disqusShortname = "yourdiscussshortname"
 
     langseparator = "|"
 
+# TODO: add more social links here
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/shibaeff"
+
 [[params.social]]
-    name = "Twitter"
+    name = "VK"
     weight = 2
-    url = "https://twitter.com/naro143/"
-[[params.social]]
-    name = "LinkedIn"
-    weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://vk.com/paulpalich"
+
 
 [languages]
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Yusuke Ishimi"
+        title = "Pavel Shibaev"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Yusuke Ishimi"
+            author = "Pavel Shibaev"
             info = "WEB AND APPS ENGINEER"
-            description = "Yusuke Ishimi's personal website"
+            description = "Pavel Shibaev's personal website"
             keywords = "blog,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
